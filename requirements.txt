@@ -1,0 +1,8 @@
+streamlit
+openai>=1
+PyPDF2
+docx2txt
+python-docx
+pillow
+pydicom
+docx2pdf
