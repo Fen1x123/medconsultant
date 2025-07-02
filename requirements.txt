@@ -6,3 +6,4 @@ python-docx
 pillow
 pydicom
 docx2pdf
+PyMuPDF
